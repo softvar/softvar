@@ -1,12 +1,12 @@
 <div align="center">
   <h2>Hi there 👋</h2>
+<!--
   <br>
 	<br>
 	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-<!-- 	<p>While it's loading, check him out on other platforms 🔍</p> -->
+	<p>While it's loading, check him out on other platforms 🔍</p>
 	<br>
 	<br>
-<!--
   <p>
     <a href="https://VarunMalhotra.xyz" target="_blank"><img alt="Website: Varun Malhotra" align="center" src="https://img.shields.io/badge/Website-Blog-lightgreen.svg?colorA=6A788D&colorB=3fb589&style=for-the-badge" /></a>
     <span>Explore <strong>me</strong> and my technical <strong>blogs.</strong></span>
