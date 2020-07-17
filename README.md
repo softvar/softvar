@@ -6,7 +6,7 @@
 	<p>While it's loading, check him out on other platforms 🔍</p>
 	<br>
 	<br>
-
+<!--
   <p>
     <a href="https://VarunMalhotra.xyz" target="_blank"><img alt="Website: Varun Malhotra" align="center" src="https://img.shields.io/badge/Website-Blog-lightgreen.svg?colorA=6A788D&colorB=3fb589&style=for-the-badge" /></a>
     <span>Explore <strong>me</strong> and my technical <strong>blogs.</strong></span>
@@ -27,6 +27,7 @@
     <span>Let's <strong>Connect!</strong></span>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
+-->
 </div>
 
 
